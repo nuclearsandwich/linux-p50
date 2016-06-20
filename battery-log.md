@@ -9,3 +9,7 @@ powertop estimates 4.5 hours.
 
 2016-06-20-13:30 lid closed
 github/github stopped.
+
+2016-06-20-13:30 lid opened
+running github/halp in dev
+99% according to my sysbat.sh
