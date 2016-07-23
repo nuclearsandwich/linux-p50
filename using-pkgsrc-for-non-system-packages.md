@@ -10,6 +10,7 @@ I don't know pkgsrc's format as well as I do Arch's but it sure as shit can't be
 ## Setup
 
 I forgot to take setup notes, but I referenced https://imil.net/blog/2015/07/05/using-pkgsrc-on-debian-gnulinux/
+
 		# apt-get install cvs libncurses5-dev gcc g++ zlib1g-dev zlib1g libssl-dev libudev-dev
 		# cd /usr; and cvs -d anoncvs@anoncvs3.de.NetBSD.org:/cvsroot co pkgsrc
 		# cd pkgsrc
